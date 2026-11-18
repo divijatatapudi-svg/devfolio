@@ -39,3 +39,17 @@ https://divijatatapudi-svg.github.io/devfolio/
 ## Repository
 
 https://github.com/divijatatapudi-svg/devfolio
+
+## Featured Projects
+
+### 1. Python Practice Collection
+A collection of Python programs covering conditionals,
+loops, functions, and problem-solving.
+
+[View Python Code](https://github.com/divijatatapudi-svg/devfolio/blob/main/projects/python_practice.py)
+
+### 2. Matrix Cell Swap
+A Python program that swaps two selected cells
+in a 3 × 3 matrix.
+
+[View Matrix Cell Swap](https://github.com/divijatatapudi-svg/devfolio/blob/main/projects/matrix_cell_swap.py)
